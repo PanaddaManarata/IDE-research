@@ -27,7 +27,7 @@
 * Live preview is seperate 
 *
 
-| **Brackets**|     |     |
+| **Brackets**|     |     | |
 | --- | --- | --- | --- | 
 | Platforms |   Microsoft Windows   |  Mac OS X   | Linux|
 
