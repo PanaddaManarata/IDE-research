@@ -6,10 +6,9 @@
 - [ ] Codepen
 - [ ] Netbeans 
 
+**Chosen IDE : BRACKETS :purple_heart: :blue_heart:**
 
-### Chosen IDE 
 
-**Brackets ** :purple_heart: :blue_heart:
 (link)
 
 
@@ -27,9 +26,14 @@
 * Live preview is seperate 
 *
 
-| **Brackets**|     |     |
-| --- | --- | --- | --- | 
-| Platforms |   Microsoft Windows   |  Mac OS X   | Linux|
+
+| **Brackets**|                     |                |                |
+| ----------- | ------------------- | -------------- | -------------- |  
+| *Platforms*   |   Microsoft Windows |    Mac OS X    |     Linux      |
+| *Language*    | C++, C, VBScript, Java, JavaScript, HTML, Python, Perl, Ruby |  
+
+
+
 
 
 ## 
