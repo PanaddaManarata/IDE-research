@@ -10,11 +10,12 @@
 
 ### Pro's and con's 
 
-Brackets | PHP storm|Codepen| Netbeans
---- | --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
+ | Brackets | PHP storm|Codepen| Netbeans
+--- | --- | --- | --- | ---
+*Platforms* | Microsoft | 
+      | Mac OS X  | 
+      | Linux | 
+Supported Languages | C++, C, VBScript, Java, Javascript, HTML, Python, Perl, Ruby | 
 ### Chosen IDE 
 
 **Brackets ** :purple_heart: :blue_heart:
