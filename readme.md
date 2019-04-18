@@ -11,7 +11,7 @@
 
 (link)
 
-
+![picture](logo.png)
 ![picture](Screenshot.png)
 
 
@@ -19,6 +19,7 @@
 * It works on multiple platforms 
 * FREE 
 * Plug-in's 
+* Preprocessor Support
 
 
 #### Con's 
