@@ -1,7 +1,7 @@
 # Find and compare different editors 
 
 ### List of IDE's
-- [x]Brackets :v:
+- [x] Brackets :v:
 - [ ] PHP storm 
 - [ ] Codepen
 - [ ] Netbeans 
