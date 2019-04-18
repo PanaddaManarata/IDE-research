@@ -27,8 +27,8 @@
 *
 
 
-| **Brackets**|                     |                |                |
-| ----------- | ------------------- | -------------- | -------------- |  
+| **Brackets**  |                     |                |                |
+| ------------- | ------------------- | -------------- | -------------- |  
 | *Platforms*   |   Microsoft Windows |    Mac OS X    |     Linux      |
 | *Language*    | C++, C, VBScript, Java, JavaScript, HTML, Python, Perl, Ruby |  
 
