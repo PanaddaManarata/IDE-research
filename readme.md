@@ -12,10 +12,10 @@
 
  | Brackets | PHP storm|Codepen| Netbeans
 --- | --- | --- | --- | ---
-*Platforms* | Microsoft | 
-      | Mac OS X  | 
-      | Linux | 
-Supported Languages | C++, C, VBScript, Java, Javascript, HTML, Python, Perl, Ruby | 
+*Platforms* | Microsoft | | | 
+      | Mac OS X  |  | 
+      | Linux | | | 
+Supported Languages | C++, C, VBScript, Java, Javascript, HTML, Python, Perl, Ruby | | | 
 ### Chosen IDE 
 
 **Brackets ** :purple_heart: :blue_heart:
