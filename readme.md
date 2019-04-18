@@ -7,8 +7,6 @@
 - [ ] Netbeans 
 
 
-
-
 ### Chosen IDE 
 
 **Brackets ** :purple_heart: :blue_heart:
