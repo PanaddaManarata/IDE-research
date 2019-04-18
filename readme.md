@@ -11,7 +11,7 @@
 
 (link)
 
-![picture](logo.png)
+![picture](logo.svg)
 ![picture](Screenshot.png)
 
 
