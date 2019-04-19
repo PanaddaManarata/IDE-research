@@ -6,10 +6,8 @@
 - [ ] Codepen
 - [ ] Netbeans 
 
-**Chosen IDE : BRACKETS :purple_heart: :blue_heart:**
-
-
-(link)
+**Chosen IDE : 
+[BRACKETS](http://brackets.io/) :purple_heart: :blue_heart:**
 
 ![picture](logo.svg)
 
