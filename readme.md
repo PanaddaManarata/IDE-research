@@ -49,6 +49,15 @@ Made with ♥
   
   [Start to use!]( https://github.com/adobe/brackets/releases/download/release-1.13/Brackets.Release.1.13.64-bit.deb)
   
+  ´´´javascript
+  
+  function becode(a,b) {
+  return a + b;
+  }
+  
+  becode(hallo,p)
+  
+  ´´´
   
  
 
