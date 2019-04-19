@@ -1,23 +1,26 @@
 # Find and compare different editors 
 
-### 1. List of IDE's
+### List of IDE's
 - [x] Brackets :v:
 - [ ] PHP storm 
 - [ ] Codepen
 - [ ] Netbeans 
 
-**Chosen IDE : 
-[BRACKETS](http://brackets.io/) :purple_heart: :blue_heart:**
 
-![picture](logo.svg)
 
-Made with ♥
+##Chosen IDE : 
+[BRACKETS](http://brackets.io/) :purple_heart: :blue_heart:
 
 --- 
 
+
+
+Made with ♥
 > Brackets is a lightweight, yet powerful, modern text editor. We  blend visual tools into the editor so you get the right amount of  help when you want it without getting in the way of your creative process. You'll enjoy writing code in Brackets.
 
-### 2. Pro's 
+
+
+### 1. Pro's 
 * It works on multiple platforms 
 * FREE 
 * Plug-in's 
@@ -25,7 +28,8 @@ Made with ♥
 * Inline editors
 
 
-### 3. Con's 
+
+### 2. Con's 
 * Doesn't support every languages such as : Xcode, Android JVM/NDK, Google Go, .. 
 * Live preview is seperate 
 * 
@@ -35,6 +39,8 @@ Made with ♥
 | ------------- | ------------------- | -------------- | -------------- |  
 | *Platforms*   |   Microsoft Windows |    Mac OS X    |     Linux      |
 | *Language*    | C++, C, VBScript, Java, JavaScript, HTML, Python, Perl, Ruby |  
+
+
 
 ### No1 reason 
 
