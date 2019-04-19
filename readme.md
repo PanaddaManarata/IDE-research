@@ -8,7 +8,7 @@
 
 
 
-##Chosen IDE : 
+## Chosen IDE : 
 [BRACKETS](http://brackets.io/) :purple_heart: :blue_heart:
 
 --- 
